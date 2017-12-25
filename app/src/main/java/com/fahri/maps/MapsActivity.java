@@ -26,7 +26,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
 
     /**
-     * Manipulasi bener
+     * Manipulasi bener asli
      */
     @Override
     public void onMapReady(GoogleMap googleMap) {
