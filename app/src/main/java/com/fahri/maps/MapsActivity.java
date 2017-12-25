@@ -26,7 +26,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
 
     /**
-     * Manipulasi babi kontol anjing.
+     * Manipulasi babi kontol anjing. ii
      */
     @Override
     public void onMapReady(GoogleMap googleMap) {
